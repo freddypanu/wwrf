@@ -186,8 +186,7 @@ nav {
     z-index: -1;
 }
 .home-grid {display: grid;
-    grid-template-columns: repeat(10,1fr);
-    border: 10px solid black;}
+    grid-template-columns: repeat(10,1fr);}
 #background {grid-column: 1/11;
 grid-row: 4/9;}
 .rivers-card{grid-column: 2/4;
