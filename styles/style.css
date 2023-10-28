@@ -198,7 +198,8 @@ grid-row: 2/3;
 grid-row: 2/3;}
 .mountains{grid-column: 2/7;
 grid-row: 5/8;
-box-shadow: 5px 5px 10px #6f7364;}
+box-shadow: 5px 5px 10px #6f7364;
+padding-top: -2px;}
 .card-img, .mountains {width: 100%;}
 .msg {grid-column: 6/10;
 grid-row: 6/7;}
